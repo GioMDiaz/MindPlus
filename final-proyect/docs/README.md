@@ -66,35 +66,3 @@ quotes
 #### ER Diagram
 
 ![alt Main Views](SchemasDiagram.png)
-
-## Tasks history
-
-### Docs
-
-- ~~DONE introduce the project, describe it (.5h)~~
-
-#### Functional Description
-
-- ~~DONE create use cases diagram (.25h)~~
-  
-- ~~DONE create wireframes in paper (2h)~~
-- ~~DONE create wireframes in figma (alt excalidraw) (3h)~~
-- ~~DONE create wireframes in README (images) (1h)~~
-
-#### Techincal Description
-
-- ~~DONE create blocks diagram (.5h)~~
-
-- ~~DONE create data model in paper (1h)~~
-- ~~DONE create data model in diagrams.net (E/R) (1h)~~
-- ~~DONE create data model in README (images) (1h)~~
-
-### Data
-
-- ~~TODO create mongoose schemas and models (2h)~~
-- ~~TODO create populate.js to test my models (1h)~~
-
-### App
-
-- ~~TODO create main views (components) (1h)~~
-- ~~TODO mechanize navigations (.5h) -->~~
